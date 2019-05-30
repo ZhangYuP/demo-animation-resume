@@ -77,7 +77,7 @@ html{
 /* 加点 3D 效果 */
 
 #code-wrapper{
-  perspective: 1000px;
+  -webkit-perspective: 1500px;
 }
 #code{
   transform: rotateY(15deg);
